@@ -3,11 +3,9 @@
 <p><b>Objetivo do jogo:</b> Clicar no Ralph a maior quantidade de vezes que consiguir durante o periodo de 60 segundos.</p>
 <p>O Ralph irá mudar de campo aleatoriamente a cada segundo que passar, variando onde irá aparecer, mantenha o foco em acerta-lo.</p>
 <br>
-<br>
 <h2>Link do jogo</h2>
 <p>O jogo está disponível para testes, ao clicar no link abaixo irá abrir em seu navegador para se divertir!!!</p>
 <p><b>Link: </b><a href="https://ocarlosmonteiro.github.io/Detona-Ralph-Jogo/" target="_blank">Clique aqui para joga</a></p>
-<br>
 <br>
 <h2>Melhoris futuras</h2>
 <ul>
